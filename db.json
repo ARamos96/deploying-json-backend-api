@@ -1,33 +1,76 @@
 {
-  "projects": [
+  "products": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "description": "Product A",
+      "price": 19.99,
+      "inStock": true
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "description": "Product B",
+      "price": 29.99,
+      "inStock": false
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "description": "Product C",
+      "price": 39.99,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "description": "Product D",
+      "price": 49.99,
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "description": "Product E",
+      "price": 59.99,
+      "inStock": false
+    },
+    {
+      "id": 6,
+      "description": "Product F",
+      "price": 69.99,
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "description": "Product G",
+      "price": 79.99,
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "description": "Product H",
+      "price": 89.99,
+      "inStock": false
+    },
+    {
+      "id": 9,
+      "description": "Product I",
+      "price": 99.99,
+      "inStock": true
+    },
+    {
+      "id": 10,
+      "description": "Product J",
+      "price": 109.99,
+      "inStock": true
+    },
+    {
+      "description": "Product Y",
+      "price": 19.99,
+      "inStock": true,
+      "id": 11
+    },
+    {
+      "description": "Product K",
+      "price": 25.99,
+      "inStock": false,
+      "id": 12
     }
   ]
 }
